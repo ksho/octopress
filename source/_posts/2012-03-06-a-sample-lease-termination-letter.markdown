@@ -3,7 +3,11 @@ layout: post
 title: "A sample lease termination letter ;)"
 date: 2012-03-06 14:23
 comments: true
-categories: 
+categories:
+- Life
+tags:
+- letter
+- the metropolitan
 ---
 
 As a direct result of my concerns regarding an increase in my rent not being addressed in any way, I will be terminating my lease effective April 30, 2012.

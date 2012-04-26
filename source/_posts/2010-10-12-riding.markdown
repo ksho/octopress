@@ -1,0 +1,15 @@
+---
+date: '2010-10-12 16:46:55'
+layout: post
+slug: riding
+status: publish
+title: Riding
+wordpress_id: '278'
+categories:
+- Life
+tags:
+- projects
+- cycling
+---
+
+After checking out various shops around Philadelphia over a few weeks, I finally picked up a road bike last week from a place in Rosemont.  I got out a couple of times between rainy days to get a hang of how to work this thing, but didn't go any substantial distance until yesterday.  After riding the Schuylkill River Trail the past two days, I wish I would've started sooner.  Anyway, I thought I'd keep track of my progress, so I've got a little chart that'll live over in the sidebar, and will continue to update as I enter in data.  Fun!  So if you want to ride, give me a shout.. winter's right around the corner.
