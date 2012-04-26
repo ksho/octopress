@@ -20,3 +20,16 @@ div#tag_list {
 #tags_ul li {
     display: inline;
 }
+
+body > header h1 a,body > header h1 a:visited,body > header h1 a:hover {
+    color: #f2f2f2;
+    text-decoration: none;
+    text-shadow: 1px 1px #333
+}
+
+body > header h2 {
+    margin: .2em 0 0;
+    font-size: 1em;
+    color: #444;
+    font-weight: normal
+}
