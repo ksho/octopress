@@ -1,0 +1,15 @@
+---
+date: '2011-11-08 23:21:58'
+layout: post
+slug: it-girl
+status: publish
+title: It Girl
+wordpress_id: '360'
+categories:
+- Music
+tags:
+- covers
+- recording
+---
+
+A little Tuesday night cover of It Girl by club pop sensation Jason Derulo .. get it! [http://www.karlshouler.com/share/itgirl.mp3](../share/itgirl.mp3) or [http://www.karlshouler.com/share/itgirl.zip](../share/itgirl.zip)

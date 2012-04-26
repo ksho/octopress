@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "A custom bash prompt"
-date: 2012-04-20 13:03
+date: 2012-03-30 13:03
 comments: true
-categories: 
+categories:
+- Dev
+tags:
+- code
+- bash
+- colors
 ---
 
 Yesterday, I fiddled around entirely too much with the style of my terminal prompt. I was inspired by [@krismolendyke](http://twitter.com/#!/krismolendyke)‘s use of the new line for input (note the `\n`), which helps me see things a little clearer when scrolling back in history. Here are some notes about its compoisition:

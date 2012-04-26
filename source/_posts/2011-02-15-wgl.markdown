@@ -1,0 +1,18 @@
+---
+date: '2011-02-15 13:20:08'
+layout: post
+slug: wgl
+status: publish
+title: wgl
+wordpress_id: '303'
+categories:
+- Music
+tags:
+- album
+- projects
+- recording
+- wild green life
+- composition
+---
+
+Hey!  I've been writing about the album I'm working on over at [nightdriverecords.com](http://www.nightdriverecords.com).  Check it out!
