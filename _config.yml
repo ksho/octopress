@@ -4,7 +4,7 @@
 
 url: http://kaybox.org
 title: arl, with a k
-subtitle: oh, hey.
+#subtitle: oh, hey.
 author: Karl Shouler
 simple_search: http://google.com/search
 description:
@@ -49,6 +49,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 
 # When set to true, we won't include meta tags that optimize for mobile.
 resist_the_future: true
+
+# Collapse sidebar by default
+sidebar: collapse
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
