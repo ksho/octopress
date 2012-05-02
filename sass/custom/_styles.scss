@@ -1,6 +1,28 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+body {
+    max-width: 850px;
+}
+
+/*body > header {
+    background: url('/images/header.png') no-repeat;
+    height: 1100px;
+}*/
+
+body > header {
+    background-image: url("/images/header.png");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    max-width: 100%;
+}
+
+html {
+    background: #C9D5C6 url('/images/line-tile.png?1334954631') top left;
+}
+
 div#tag_list {
     font-size: 12pt;
 }
@@ -24,7 +46,9 @@ div#tag_list {
 body > header h1 a, body > header h1 a:visited, body > header h1 a:hover {
     color: #f2f2f2;
     text-decoration: none;
-    text-shadow: 1px 1px #333
+    text-shadow: 1px 1px #333;
+    font-style: italic;
+    font-family: Georgia;
 }
 
 body > header h2 {
@@ -57,6 +81,6 @@ article header {
     margin-bottom: 12px;
 }
 
-article header h1 {
+article header *, body > nav a {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
