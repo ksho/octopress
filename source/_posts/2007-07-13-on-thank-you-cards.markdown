@@ -6,8 +6,7 @@ status: publish
 title: On 'Thank You' Cards
 wordpress_id: '69'
 categories:
-- Life
-tags:
+- life
 - status quo
 - rational thinking
 ---

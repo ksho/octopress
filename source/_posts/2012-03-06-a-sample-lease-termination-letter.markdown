@@ -4,8 +4,7 @@ title: "A sample lease termination letter ;)"
 date: 2012-03-06 14:23
 comments: true
 categories:
-- Life
-tags:
+- life
 - letter
 - the metropolitan
 ---

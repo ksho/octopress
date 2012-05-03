@@ -6,8 +6,7 @@ status: publish
 title: Hello, Wisconsin.
 wordpress_id: '152'
 categories:
-- Life
-tags:
+- life
 - madison
 - sonic foundry
 - summer

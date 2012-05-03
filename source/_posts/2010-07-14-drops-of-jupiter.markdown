@@ -6,8 +6,7 @@ status: publish
 title: Drops of Jupiter
 wordpress_id: '201'
 categories:
-- Music
-tags:
+- music
 - covers
 - recording
 ---

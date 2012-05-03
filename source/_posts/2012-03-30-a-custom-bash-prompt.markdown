@@ -4,8 +4,7 @@ title: "A custom bash prompt"
 date: 2012-03-30 13:03
 comments: true
 categories:
-- Dev
-tags:
+- dev
 - code
 - bash
 - colors

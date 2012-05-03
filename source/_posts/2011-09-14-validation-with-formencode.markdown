@@ -6,8 +6,7 @@ status: publish
 title: Validation with FormEncode
 wordpress_id: '337'
 categories:
-- Dev
-tags:
+- dev
 - code
 - phillypug
 - python

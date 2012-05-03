@@ -6,8 +6,7 @@ status: publish
 title: Ubuntu Is Great.. Almost
 wordpress_id: '66'
 categories:
-- Dev
-tags:
+- dev
 - linux
 - ubuntu
 - partitioning

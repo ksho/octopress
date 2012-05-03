@@ -6,8 +6,7 @@ status: publish
 title: It Girl
 wordpress_id: '360'
 categories:
-- Music
-tags:
+- music
 - covers
 - recording
 ---

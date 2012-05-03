@@ -6,8 +6,7 @@ status: publish
 title: wgl
 wordpress_id: '303'
 categories:
-- Music
-tags:
+- music
 - album
 - projects
 - recording

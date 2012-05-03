@@ -6,8 +6,7 @@ status: publish
 title: Live Out Back
 wordpress_id: '243'
 categories:
-- Music
-tags:
+- music
 - live
 - recording
 - conshohocken

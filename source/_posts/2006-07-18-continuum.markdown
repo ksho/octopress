@@ -6,8 +6,7 @@ status: publish
 title: Continuum
 wordpress_id: '90'
 categories:
-- Music
-tags:
+- music
 - john mayer
 - tracklist
 ---

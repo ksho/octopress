@@ -6,8 +6,7 @@ status: publish
 title: kenshouler.com
 wordpress_id: '226'
 categories:
-- Dev
-tags:
+- dev
 - ken
 - professional
 - projects
