@@ -6,8 +6,6 @@ status: publish
 title: On Effort In Advertising
 wordpress_id: '71'
 categories:
-- Thoughts on Business
-tags:
 - advertising
 - business
 - sales

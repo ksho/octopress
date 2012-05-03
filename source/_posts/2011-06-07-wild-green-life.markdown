@@ -6,8 +6,7 @@ status: publish
 title: Wild Green Life
 wordpress_id: '313'
 categories:
-- Music
-tags:
+- music
 - album
 - projects
 - recording

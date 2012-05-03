@@ -6,8 +6,6 @@ status: publish
 title: We're Flawed.
 wordpress_id: '340'
 categories:
-- Random Thoughts
-tags:
 - life
 - quotes
 - mad men

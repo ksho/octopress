@@ -6,8 +6,7 @@ status: publish
 title: Riding
 wordpress_id: '278'
 categories:
-- Life
-tags:
+- life
 - projects
 - cycling
 ---

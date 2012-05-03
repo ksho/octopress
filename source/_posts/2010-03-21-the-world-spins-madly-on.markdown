@@ -6,8 +6,7 @@ status: publish
 title: The World Spins Madly On
 wordpress_id: '172'
 categories:
-- Music
-tags:
+- music
 - covers
 - recording
 ---

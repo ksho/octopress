@@ -6,8 +6,7 @@ status: publish
 title: So Long, New York
 wordpress_id: '149'
 categories:
-- Life
-tags:
+- life
 - internship
 - madison
 - summer

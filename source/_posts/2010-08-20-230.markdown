@@ -6,8 +6,6 @@ status: publish
 title: Breaking my rules
 wordpress_id: '230'
 categories:
-- Random Thoughts
-tags:
 - cappuccino
 - nostalgia
 - rules
