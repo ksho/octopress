@@ -19,4 +19,4 @@ UPDATE 7/20/2011: Digital and a limited run of physical copies [are now availabl
 
 Hey, I've [released my record](http://www.nightdriverecords.com/)!
 
-![](http://farm7.static.flickr.com/6001/5935414575_40b59eabec.jpg)
+![WGL Cover](http://farm7.static.flickr.com/6001/5935414575_40b59eabec.jpg)
