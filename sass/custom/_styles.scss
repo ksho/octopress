@@ -66,8 +66,8 @@ body a {
     margin-left: 2em;
 }
 
-.entry-content, body .sidebar .post, #tag-cloud {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+.entry-content, body .sidebar .post, #tag-cloud, article footer {
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     color: #373737;
     font-weight: 300;
 }
@@ -77,5 +77,5 @@ article header {
 }
 
 article header *, body > nav a {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
