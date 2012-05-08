@@ -14,4 +14,4 @@ categories:
 - monetate
 ---
 
-I gave a talk at [PhillyPUG](http://www.meetup.com/phillypug/) (hosted at Monetate!) last night discussing how you can easily implement validation in your app with a python library called [formencode](http://www.formencode.org). You can find the code and accompanying slides here.. [https://github.com/kmano8/validationtalk](https://github.com/kmano8/validationtalk).
+I gave a talk at [PhillyPUG](http://www.meetup.com/phillypug/) (hosted at Monetate!) last night discussing how you can easily implement validation in your app with a python library called [formencode](http://www.formencode.org). Also check out the [code and accompanying slides](https://github.com/kmano8/validationtalk).
