@@ -2,12 +2,13 @@
 // Add styles here to make changes without digging in too much
 
 body {
-    max-width: 850px;
-    border: 1px solid #999;
+    max-width: 1000px;
+    border-right: 1px solid #999;
+    border-left: 1px solid #999;
 }
 
 body > header {
-    background-image: url("/images/header.jpg");
+    background-image: url("/images/header-wrd.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
