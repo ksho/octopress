@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Macintosh fonts named for R5 stops"
+date: 2012-06-07 14:06
+comments: true
+categories:
+- apple
+- steve jobs
+---
+
+In recent days, I've finally revisited Walter Isaacson's biography of Steve Jobs. To my surprise, I came across an excerpt detailing the naming of fonts for the first Macintosh.
+
+> At the calligraphy class he had audited at Reed, Jobs learned to love typefaces, with all of their serif and sans serif variations, proportional spacing, and leading. “When we were designing the first Macintosh computer, it all came back to me,” he later said of that class. Because the Mac was bitmapped, it was possible to devise an endless array of fonts, ranging from the elegant to the wacky, and render them pixel by pixel on the screen.
+
+> To design these fonts, Hertzfeld recruited a high school friend from suburban Philadelphia, Susan Kare. They named the fonts after the stops on Philadelphia’s Main Line commuter train: Overbrook, Merion, Ardmore, and Rosemont. Jobs found the process fascinating.
+
+> Late one afternoon he stopped by and started brooding about the font names. They were “little cities that nobody’s ever heard of,” he complained. “They ought to be world-class cities!” The fonts were renamed Chicago, New York, Geneva, London, San Francisco, Toronto, and Venice.

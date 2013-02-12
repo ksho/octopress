@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Philly's 2012 summer film series"
+date: 2012-06-29 14:40
+comments: true
+categories: 
+- philly
+- film
+- summer
+- '2012'
+---
+
+There are a few outdoor film series during the summer in Philadelphia. The thing is, they're all on Thursdays.. bah. I've compiled the showings into a table to make choosing a bit easier. Also, it looks like Northern Liberties ends up taking the cake with a film from each year in the 80's.
+
+
+
+Date        | Penn's Landing | Schuykill River Park |  NoLibs (3rd & Poplar) |
+:-----------|:----------------|:----------------------|:--------|
+ June 14th  |--|The Muppets | --
+ June 28th  |--|King Kong (1933)|The Blues Brothers (1980)
+ July 5th   |Mission Impossible: Ghost Protocol|--|Stripes (1981)
+ July 12th  |Moneyball|Footloose (1984)|The Road Warrior (1982)
+ July 19th  |Twilight Saga: Breaking Dawn Part I|--|National Lampoon's Vacation (1983)
+ July 26th  |--|O Brother, Where Art Thou?|Ghostbusters (1984) - with marshmallow roast
+ August 2nd |--|--|PeeWee's Big Adventure (1985)
+ August 9th |The Muppets|The Incredibles|Top Gun (1986)
+ August 16th|Justin Bieber: Never Say Never|--|Predator (1987)
+ August 23rd|Dolphin Tale|Moneyball|Beetlejuice (1988)
+ August 30th|The Descendants|--|The Wizard (1989) - with video game tournament
+<br>
+Sources:  
+* [srp](http://www.schuylkillbanks.org/stories/2012-movie-nights)
+* [pl](http://www.visitphilly.com/events/philadelphia/screenings-under-the-stars-summer-movie-series-at-penns-landing/)
+
