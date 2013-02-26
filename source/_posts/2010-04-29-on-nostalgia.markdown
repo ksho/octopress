@@ -1,0 +1,14 @@
+---
+date: '2010-04-29 10:05:57'
+layout: post
+title: On Nostalgia
+categories:
+- friends
+- nostalgia
+---
+
+Last Thursday, I celebrated with friends for making it through the year to another Earth Day. I enjoyed their company, and as a nostalgic person, will remember these past few days for some time.  When I have a cinematic night like this, I tend to think about existential things.
+
+Lately, I've had a few laughs with some of my friends in what I like to call 'get off my lawn moments.' How it works is, I'll be in some random place, and make some remark toward a seemingly misguided youth — we laugh, and acknowledge what is happening to us as we age. Most of these occurances are insignficant, but there are others I feel more strongly about. Last week, [my friend wrote about the days of playing outside in the evening](http://builtforthis.blogspot.com/2010/04/fireflies.html) — the imagery of fireflies, porch lights, and cool grass really sent my head into the clouds for a few minutes. If you read it, I'm certain you'll flashback too — it couldn't be painted more colorfully. What I want to say though, is that I can't imagine growing up without these (my) memories — and this is silly because people generally don't miss what they never had. "But we played outside, and threw tennis balls over powerlines, and it was magicial, blah, blah", I'll say. I've been throwing this adjective all over the place lately, but things were good.. just good — actually, they were great, but if you put the emphasis on the 'good', for example, "Mm, life is frickin' good", I would hear that as “Damn, things are just simply fantastic”. I wouldn't have wanted to grow up with youtube coaxing me to my musty basement for hours at a time. I won't mislead you.. we played NES and Sega Genesis, and we played them a lot. What I fear is that post-Jurassic Park youths are just the beginning of generations that won't enjoy the sensory overload of summer evenings that chiseled my childhood memories into what they are today. I know it's supposed to workout though — I'm certain my parents had similar trouble with my brother and I glued to the Nintendo, and we've both grown to hold some good times up in our nogins.
+
+On the other hand, to me, the beauty of nostalgia is that it's unique and non-transferrable. The days I ran around the woods by Miller's Pond mean nothing to you — you may care, and be interested in learning about me, but ultimately, even though I might be able to tell you exactly what a day was like for me (the sun was shining, my knees were scratched, life as a fourth grader is perfect, fum fum fum), that memory is exceptionally impossible to completely recreate for another person. This is a bittersweet realization for me. Sour because I can't possibly convey the entire scope of what I recall, and oh so sweet because the way an otherwise simple event is massaged into something extraordinary makes me feel very alive.
