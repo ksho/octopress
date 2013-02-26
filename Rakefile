@@ -4,7 +4,7 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "root@kaybox.org"
+ssh_user       = "karl@karlshouler.com"
 ssh_port       = "22"
 rsync_args     = ""  # Any extra arguments to pass to rsync
 document_root  = "/home/webapps/arl/"
