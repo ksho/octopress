@@ -1,0 +1,107 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+body {
+    max-width: 1000px;
+    border-right: 1px solid #999;
+    border-left: 1px solid #999;
+}
+
+body > header {
+    background-image: url("/images/vanpelt.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    max-width: 100%;
+    text-align: center;
+}
+
+/*html {
+    background: #\ url('/images/line-tile.png?1334954631') top left;
+}
+*/
+div#tag_list {
+    font-size: 12pt;
+}
+
+#tags_ul {
+    display: inline;
+}
+
+#tags_ul li:last-child:after {
+  content: "";
+}
+
+#tags_ul li:after {
+  content: ", ";
+}
+
+#tags_ul li {
+    display: inline;
+}
+
+/*body > header h1 a, body > header h1 a:visited, body > header h1 a:hover {
+    color: #f2f2f2;
+    text-decoration: none;
+    text-shadow: 1px 1px #333;
+    font-style: italic;
+    font-family: Georgia;
+}*/
+
+/*body > header h2 {
+    margin: .2em 0 0;
+    font-size: 1em;
+    color: #444;
+    font-weight: normal
+}*/
+
+body a {
+    text-decoration: none;
+}
+
+.entry-content {
+    font-size: 0.85em;
+    line-height: 1.625;
+}
+
+.entry-content a {
+    border-bottom: 1px solid;
+}
+
+.entry-content li {
+    margin-left: 2em;
+}
+
+.entry-content, body .sidebar .post, #tag-cloud, article footer {
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    color: #373737;
+    font-weight: 300;
+}
+
+article header {
+    margin-bottom: 12px;
+}
+
+article header *, body > nav a {
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+
+.karl-table {
+    border: 1px solid #CCC;
+}
+
+.entry-content > table, .entry-content > table td, .entry-content > table th {
+    padding: 4px;
+    margin: 3px;
+    border: 1px solid #ccc;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+.entry-content > table th {
+    background-color: #50B6BE;
+    color: #FFF;
+    font-weight: bold;
+}
