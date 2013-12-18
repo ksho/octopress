@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Tennessee"
+date: 2007-01-08 14:10
+comments: true
+categories:
+- photo
+---
+
+Chillin' on a bench. My first cappuccino -- liked it.
+
+![bench](http://farm1.staticflickr.com/206/441243634_ee08de8c51_z.jpg?zz=1)

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "We're Downtown"
+date: 2003-11-21 17:21
+comments: true
+categories:
+- photo
+---
+
+German Honor Society trip to NYC to see The Threepenny Opera.
+![downtown](http://farm1.staticflickr.com/185/438344658_926f776011_z.jpg?zz=1)
