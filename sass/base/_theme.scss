@@ -4,18 +4,19 @@ $img-border: inline-image('dotted-border.png');
 // Main Link Colors
 $link-color: lighten(#165b94, 3) !default;
 $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
-$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
+$link-color-visited: $link-color;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
 // Main Section Colors
 $main-bg: #f8f8f8 !default;
-$page-bg: #E6D6AC !default;
+$page-bg: #6582F7 !default;
+/*$page-bg: #ABCDFF !default;*/
 $article-border: #eeeeee !default;
 
 $header-bg: $page-bg !default;
 $header-border: lighten($header-bg, 15) !default;
 $title-color: #f2f2f2 !default;
-$subtitle-color: #555 !default;
+$subtitle-color: #C5C5C5 !default;
 
 $text-color: #222 !default;
 $text-color-light: #aaa !default;

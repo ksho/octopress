@@ -2,11 +2,11 @@ body > nav {
   position: relative;
   /*background-color: $nav-bg;*/
   /*@include background($nav-bg-front, $nav-bg-back);*/
-  border: {
+  /*border: {
     top: 1px solid $nav-border-top;
-    bottom: 1px solid $nav-border-bottom; }
-  padding-top: .35em;
-  padding-bottom: .35em;
+    bottom: 1px solid $nav-border-bottom; }*/
+  padding-top: .25em;
+  padding-bottom: .3em;
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
@@ -58,16 +58,16 @@ body > nav {
       text-shadow: #000 1px 1px;
       float: left;
       text-decoration: none;
-      font-size: 1.1em;
+      font-size: 0.85em;
       padding: .1em 0;
       line-height: 1.5em;
     }
     li + li {
-      border-left: 1px solid $nav-border-left;
+      /*border-left: 1px solid $nav-border-left;*/
       margin-left: .8em;
       a {
         padding-left: .8em;
-        border-left: 1px solid $nav-border-right;
+        /*border-left: 1px solid $nav-border-right;*/
       }
     }
     form {
@@ -130,7 +130,7 @@ body > nav {
       }
     }
   }
-  ul.subscription { position: relative; top: .2em; li, a { border: 0; padding: 0; }}
+  ul.subscription { position: relative; li, a { border: 0; padding: 0; }}
   a[rel=subscribe-rss]{ @include mask-subscription-nav('rss.png'); }
   a[rel=subscribe-email]{ @include mask-subscription-nav('email.png'); }
 }

@@ -1,5 +1,4 @@
 ---
-date: '2009-12-29 01:11:40'
 layout: post
 slug: recordings-page
 status: publish
@@ -9,7 +8,13 @@ categories:
 - music
 ---
 
-_Right click the songs below and "Save As.." to download to your hard drive._
+### St. Augustine Chamber Choir presents: A Christmas Celebration (12/6/2013)
+_Recorded live on 12/6/2013 at St. Augustine's Church in Old City, Philadelphia._
+
+[Download the full show (mp3, 77 MB)](https://www.dropbox.com/s/pqnmmky979jj332/staugustine_christmas2013.zip)
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/17484054&amp;color=3b29c1&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
 
 ### A Musical Christmas: The B-sides (12/20/2012)
 _Recorded live at St. Augustine's Church in Old City, Philadelphia._
@@ -56,18 +61,19 @@ _Recorded live at St. Augustine's Church in Old City, Philadelphia._
 
 
 ### Old Originals
-- [_Summer Girl_](http://www.karlshouler.com/wp-content/uploads/2009/12/Summer-Girl.mp3) (2005)
+- [_Summer Girl_](https://soundcloud.com/kmano8/summer-girl) (2005)
 
 
 ### Covers
-- [_It Girl_](http://www.karlshouler.com/share/ItGirl.mp3) -Jason Derulo
-- [_Drops of Jupiter_](http://www.karlshouler.com/wp-content/uploads/2010/07/Drops-of-Jupiter.mp3) -Train
-- [_The World Spins Madly On_](http://www.karlshouler.com/wp-content/uploads/2010/03/World-Spins-Madly-On.mp3) -The Weepies
-- [_Free Fallin'_](http://www.karlshouler.com/wp-content/uploads/2009/12/Free-Fallin.mp3) -originally by Tom Petty, in the spirit of John Mayer
-- [_Shimmer_](http://www.karlshouler.com/wp-content/uploads/2009/12/Shimmer-feat.-JMags-AMonroe-ERiv.mp3) -feat. J.Mags on rhymes
-- [_Change The World_](http://www.karlshouler.com/wp-content/uploads/2009/12/Change-The-World-ft.-Jmags-Eriv.mp3) -feat. J.Mags
-- [_Night Of Silence/Silent Night_](http://www.karlshouler.com/wp-content/uploads/2009/12/Night-Of-Silence_Silent-Night-feat.-E-Trancik.mp3) -feat. Emily on vocals
-- [_Have Yourself A Merry Little Christmas_](http://www.karlshouler.com/wp-content/uploads/2009/12/Have-Yourself-A-Merry-Little-Christmas.mp3)
+- [_At Last_](https://soundcloud.com/kmano8/at-last-nightgowns-whiskey) (2011) -feat. C.Turner
+- [_It Girl_](https://soundcloud.com/kmano8/it-girl) (2011) -Jason Derulo
+- [_Drops of Jupiter_](https://soundcloud.com/kmano8/drops-of-jupiter) (2010) -Train
+- [_The World Spins Madly On_](https://soundcloud.com/kmano8/world-spins-madly-on) (2009) -The Weepies
+- [_Free Fallin'_](https://soundcloud.com/kmano8/free-fallin) (2008) -originally by Tom Petty, in the spirit of John Mayer
+- [_Shimmer_](https://soundcloud.com/kmano8/shimmer-feat-jmags-amonroe) (2009) -feat. J.Mags on rhymes
+- [_Change The World_](https://soundcloud.com/kmano8/change-the-world-ft-jmags-eriv) (2009) -feat. J.Mags
+- [_Night Of Silence/Silent Night_](https://soundcloud.com/kmano8/night-of-silence-silent-night) (2008) -feat. Emily on vocals
+- [_Have Yourself A Merry Little Christmas_](https://soundcloud.com/kmano8/have-yourself-a-merry-little) (2008)
 
 
 ### College Demo

@@ -7,7 +7,8 @@ title: arl, with a k
 subtitle: by Karl Shouler
 author: Karl Shouler
 # simple_search: http://google.com/search
-description:
+description: Thoughts from a Musicianeer.
+keywords: dev,software,music
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -36,7 +37,7 @@ category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 5          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -53,9 +54,6 @@ resist_the_future: true
 
 # Collapse sidebar by default
 sidebar: collapse
-
-# When set to true, we won't include meta tags that optimize for mobile.
-resist_the_future: true
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on Summer / High Speed Chases"
+title: "Closing Time"
 date: 2006-07-26 14:01
 comments: true
 categories:

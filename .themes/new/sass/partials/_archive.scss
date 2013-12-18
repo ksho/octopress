@@ -3,18 +3,22 @@
 }
 #blog-archives {
   article {
-    padding: 1em 0 1em;
+    padding: 8px 0 8px;
     position: relative;
     background: $img-border bottom left repeat-x;
     &:last-child {
       background: none;
     }
-    footer { padding: 0; margin: 0;}
+    footer {
+      font-size: 14px;
+      padding: 0;
+      margin: 0;
+    }
   }
   h1 { color: $text-color; margin-bottom: .3em; }
   h2 { display: none; }
   h1 {
-    font-size: 1.5em;
+    font-size: 18px;
     a {
       @include hover-link;
       color: inherit;
@@ -31,7 +35,7 @@
   .entry-content { display: none; }
   time {
     font-size: .9em;
-    line-height: 1.2em;
+    /*line-height: 1.2em;*/
     .month, .day { display: inline-block; }
     .month { text-transform: uppercase; }
   }
@@ -52,7 +56,7 @@
       position: absolute;
       text-align: right;
       left: 0em;
-      top: 1.8em;
+      top: 6px;
     }
     .year { display: none; }
     article {

@@ -8,6 +8,7 @@ wordpress_id: '152'
 categories:
 - life
 - madison
+- wisconsin
 - sonic foundry
 - summer
 - travel
