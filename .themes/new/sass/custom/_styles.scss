@@ -3,8 +3,8 @@
 
 
 html {
-    background: url('/images/am.jpg');
-    background-color: #527185;
+    background: url('/images/locust.jpg') no-repeat center center fixed;
+    background-color: #4E6485;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    max-width: 850px;
+    max-width: 880px;
     /*border-right: 1px solid #999;*/
     /*border-left: 1px solid #999;*/
 }
@@ -33,8 +33,9 @@ div#main {
 
 div#main,
 div#main div#content {    
-    border-radius: 8px;
-    background: #eee
+    border: 1px solid #C9C9C9;
+    border-radius: 5px;
+    background: #eee;
 }
 
 /*html {
@@ -81,8 +82,12 @@ body a {
 }
 
 .entry-content {
-    font-size: 0.85em;
-    line-height: 1.625;
+    font-family: "Lora", "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+    letter-spacing: .01rem;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 1.7;
 }
 
 .entry-content a {
