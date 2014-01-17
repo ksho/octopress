@@ -5,7 +5,6 @@ date: 2012-06-07 14:06
 comments: true
 categories:
 - apple
-- steve jobs
 ---
 
 In recent days, I've finally revisited Walter Isaacson's biography of Steve Jobs. To my surprise, I came across an excerpt detailing the naming of fonts for the first Macintosh.

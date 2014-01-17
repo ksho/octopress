@@ -7,9 +7,7 @@ title: On Effort In Advertising
 wordpress_id: '71'
 categories:
 - advertising
-- business
-- sales
-- new york city
+- nyc
 ---
 
 

@@ -7,8 +7,7 @@ categories:
 - coffee
 - cappuccino
 - passeros
-- philadelphia
-- life
+- philly
 ---
 
 Almost two months ago, ever since I realized I could get my cappuccinos in decaf form, I've been on an IV drip of them. So when I find a consistently tasty one, at a heck of a price, handed to me most often in under 90 seconds, my attention is consumed.
