@@ -9,6 +9,8 @@ article {
     background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
+      font-size: 1.5em;
+      font-weight: 300;
       a { text-decoration: none;
         &:hover { text-decoration: none; } }
     }
@@ -94,6 +96,7 @@ article + article {
   article h1 {
     font-size: 1.5em;
     font-weight: 300;
+    margin-bottom: 15px;
     a { color: inherit; &:hover { color: $link-color-hover; } }
   }
   a[rel=full-article] {
