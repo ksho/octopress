@@ -18,6 +18,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
+twitter_link: 'http://twitter.com/_ksho'
+github_link: 'https://github.com/ksho'
+flickr_link: 'http://www.flickr.com/photos/karlshouler/'
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
