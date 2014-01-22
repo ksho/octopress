@@ -126,20 +126,43 @@ article.hentry div.entry-content {
 .karl-table {
     border: 1px solid #CCC;
 }
+.entry-content > table {
+    margin-bottom: 1em;
+}
 
 .entry-content > table, .entry-content > table td, .entry-content > table th {
     padding: 4px;
-    margin: 3px;
     border: 1px solid #ccc;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: $mono;
     font-size: 0.9em;
     font-weight: 300;
 }
 
-.entry-content > table th {
-    background-color: #50B6BE;
+.entry-content table th {
+    background-color: #7A7A7A;
     color: #FFF;
-    font-weight: bold;
+    /*font-weight: bold;*/
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+
+
+/* http://www.tablesgenerator.com/html_tables */
+.tg-table-light { border-collapse: collapse; border-spacing: 0; }
+.tg-table-light td, .tg-table-light th { background-color: #fff; border: 1px #bbb solid; color: #333; font-size: medium; padding: 10px; vertical-align: top; }
+.tg-table-light .tg-even td  { background-color: #eee; }
+.tg-table-light th  { background-color: #ddd; color: #333; font-size: 110%; font-weight: normal; }
+.tg-table-light tr:hover td, .tg-table-light tr.even:hover td  { color: #222; background-color: #FCFBE3; }
+.tg-bf { font-weight: bold; }
+.tg-it { font-style: italic; }
+.tg-left { text-align: left; }
+.tg-right { text-align: right; }
+.tg-center { text-align: center; }
+
 /*http://drinchev.github.io/monosocialiconsfont/*/
 @font-face {
     font-family: 'Mono Social Icons Font';
