@@ -6,6 +6,7 @@ comments: true
 categories: 
 - philly
 - photo
+- snow
 ---
 
 In the three years I've lived here, winter has phoned it in again and again in terms of snow. This winter, we're finally getting some pay back.
