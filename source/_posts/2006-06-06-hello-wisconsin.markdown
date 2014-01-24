@@ -12,7 +12,7 @@ categories:
 - sonic foundry
 - summer
 - travel
-- startup
+- startups
 ---
 
 I arrived here in Madison on Saturday... the weather was hot, almost unbearable.  Me and the guys from Villanova spent the weekend getting acquianted with the area.  Madison is a quiant little city.  There is no traffic, the streets are clean and many restaurants line the main drag up to the Capitol (the building, that is).
