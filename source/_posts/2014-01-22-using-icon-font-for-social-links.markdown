@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Using Icon Font for Social Links"
-date: 2014-01-22 12:33:26 -0500
+date: 2014-01-27 18:33:26 -0500
 comments: true
-published: false
+published: true
 categories: 
 - dev
 ---
 
-I've never liked the terrible `rss.png` I had floated right in the navigation. It wasn't cross-browser compatible with Firefox for some reason I didn't care to dig into, and it looked terrible on high resolution displays (e.g. all retina displays, really). So last night after my snow photo adventure, I thought I'd look around for a nice icon font as a replacement. Github https://github.com/blog/1106-say-hello-to-octicons
+I've never liked the terrible `rss.png` I had right floated in the navigation. It wasn't cross-browser compatible with Firefox for some reason I didn't care to dig into, and it looked terrible on high resolution displays. So a few nights back, after [my snow photo adventure](http://karlshouler.com/blog/2014/01/22/late-night-snow/), I thought I'd look around for a nice icon font as a replacement.
+
+Why use an icon font? Well, for me, the characters in an icon font can be transformed and styled (e.g. scale, color, shadow, opacity) all in CSS without having to open Photoshop. In addition, icon fonts are seriously lightweight and only require a single HTTP request for the whole set, rather than a GET for each image.
 
 Not sure what my Google query was, but I ended up stumbling upon [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/) -- a really wide selection of simple social icons.
 
@@ -36,3 +38,7 @@ Then you could do something like:
 {% endcodeblock %}
 
 Now, when you add the `.symbol` class to an element it will take a look at the text inside that element and instead of displaying it's inner-text, say 'twitterbird', it will render the corresponding icon character -- the twitter bird logo in this case. Inspect the HTML/CSS of the icons on the navigation to see what's going on.
+
+One optimization I could make to improve load time is cut down the contents of the font files to only include icons I care about -- this would effectively make the request for them free.
+
+Finally, though I did spend a bit of time tweaking their size and spacing, it took me only 15 minutes or so to get the icon font installed and working.

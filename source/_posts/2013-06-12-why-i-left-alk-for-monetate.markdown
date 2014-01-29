@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I left ALK for Monetate"
+title: "Why I Left ALK for Monetate"
 date: 2013-06-12 14:49
 published: true
 categories:
