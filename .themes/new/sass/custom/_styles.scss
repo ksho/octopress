@@ -164,7 +164,7 @@ table.center {
 .tg-center { text-align: center; }
 
 /*http://drinchev.github.io/monosocialiconsfont/*/
-@font-face {
+/*@font-face {
     font-family: 'Mono Social Icons Font';
     src: url('monosocialicons/MonoSocialIconsFont-1.10.eot');
     src: url('monosocialicons/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
@@ -190,17 +190,21 @@ table.center {
     font-smoothing: antialiased;
     font-size: 40px;
 
-}
+}*/
 
 body > nav .subscription li {
-    margin-left: 0;
+    margin-left: 12px;
 }
 
-body > nav .subscription li a {
+/*body > nav .subscription li a {
     padding-left: 0.4em;
-}
+}*/
 
 body > nav .subscription li a {
     line-height: 0.4em;
+}
+
+.fa-nav-size {
+    font-size: 22px;
 }
 
